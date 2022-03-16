@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+
+body{
+    height: 100%;
+    margin: 10;
+    background-color: rgb(44, 23, 1);
+    background:linear-gradient(rgb(47, 83, 58), rgb(50, 67, 114));
+    font-family: 'Merriweather', serif;
+    color: bisque;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+button {
+    font-size: 25px;
+    background-color: bisque;
+    color: rgb(50, 67, 114);
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
